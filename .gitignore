@@ -7,8 +7,8 @@ Content/StartContent/
 DerivedDataCache/
 Intermediate/
 Saved/
-!Content/_Core
 Content/
+!Content/_Core/
 
 *.vscode
 *.sln
