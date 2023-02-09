@@ -8,7 +8,7 @@ DerivedDataCache/
 Intermediate/
 Saved/
 
-/Content/
+/Content/*
 !/Content/_Core/
 
 *.vscode
